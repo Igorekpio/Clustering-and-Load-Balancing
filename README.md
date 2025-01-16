@@ -20,6 +20,5 @@ https://github.com/Igorekpio/Clustering-and-Load-Balancing/blob/main/haproxy4.cf
 
 # Решение  
 #### Конфигурационный файл HAproxy
-
-
+https://github.com/Igorekpio/Clustering-and-Load-Balancing/blob/main/haproxy7.cfg
 ![image](https://github.com/user-attachments/assets/a09a051d-cd18-4c64-be16-9d85956074ce)
