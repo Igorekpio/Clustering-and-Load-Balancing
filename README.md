@@ -9,7 +9,8 @@
 # Решение
 #### Конфигурационный файл HAproxy
 https://github.com/Igorekpio/Clustering-and-Load-Balancing/blob/main/haproxy4.cfg
-![image](https://github.com/user-attachments/assets/e59e2419-ef49-4321-8600-9231152add2e)
+![image](https://github.com/user-attachments/assets/6c0fbf4c-0b77-4ddb-bc55-54ec262e5bba)
+
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -19,3 +20,6 @@ https://github.com/Igorekpio/Clustering-and-Load-Balancing/blob/main/haproxy4.cf
 
 # Решение  
 #### Конфигурационный файл HAproxy
+
+
+![image](https://github.com/user-attachments/assets/a09a051d-cd18-4c64-be16-9d85956074ce)
